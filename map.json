@@ -147,16 +147,43 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":65,
-         "source":"modern_interiors_generic.tsx"
+         "image":"tilesets_generic.png",
+         "imageheight":1920,
+         "imagewidth":512,
+         "margin":0,
+         "name":"generic",
+         "spacing":0,
+         "tilecount":960,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":1025,
-         "source":"Bathroom.tsx"
+         "image":"tilesets_bathroom.png",
+         "imageheight":704,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Bathroom",
+         "spacing":0,
+         "tilecount":352,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":1377,
-         "source":"Grocery_store.tsx"
+         "image":"tilesets_grocery.png",
+         "imageheight":1568,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Grocery_store",
+         "spacing":0,
+         "tilecount":784,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
@@ -881,6 +908,32 @@
                          "value":true
                         }]
                 }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":2417,
+         "image":"tilesets_bathroom.png",
+         "imageheight":704,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Bathroom",
+         "spacing":0,
+         "tilecount":352,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":2769,
+         "image":"tilesets_bathroom.png",
+         "imageheight":704,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Bathroom",
+         "spacing":0,
+         "tilecount":352,
+         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
